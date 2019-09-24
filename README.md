@@ -7,3 +7,5 @@
 ## Ebook
 * 深度学习-IanGoodfellow（伊恩·古德费洛） 著.pdf 链接: https://pan.baidu.com/s/1OTz-ah0XV1nrq_3tf8RtEA 提取码: e75m 
   > ![](https://tse1-mm.cn.bing.net/th?id=OIP.55s0WgRMcOLh9-EyaAKZMAHaKo&w=148&h=213&c=7&o=5&dpr=1.5&pid=1.7)
+## OverViews
++ 爱可可老师分享 https://www.yuque.com/fly51fly/gvl1ma
