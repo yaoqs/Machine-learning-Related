@@ -16,6 +16,8 @@
 ## Ebook
 <a id="markdown-ebook" name="ebook"></a>
 
+- [Patterns, Predictions, and Actions](https://mlstory.org/) A story about machine learning.Moritz Hardt and Benjamin Recht [pdf](https://mlstory.org/pdf/patterns.pdf)
+- The [Deep Learning](https://www.deeplearningbook.org/) [An MIT Press book - Ian Goodfellow and Yoshua Bengio and Aaron Courville] textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.
 - 深度学习-Ian Goodfellow（伊恩·古德费洛）著.pdf
   - Author：Ian Goodfellow and Yoshua Bengio and Aaron Courville： <https://www.deeplearningbook.org/>
   - 链接: <https://pan.baidu.com/s/1OTz-ah0XV1nrq_3tf8RtEA> 提取码: e75m
