@@ -6,11 +6,11 @@
 
 <!-- TOC -->
 
-- [Machine-learning-Related](#machine-learning-related)
-  - [Ebook](#ebook)
-  - [CS229: Machine Learning](#cs229-machine-learning)
-  - [OverViews](#overviews)
-  - [License \& Copyright](#license--copyright)
+1. [Ebook](#ebook)
+2. [Courses](#courses)
+3. [会议](#会议)
+4. [OverViews](#overviews)
+5. [License \& Copyright](#license--copyright)
 
 <!-- /TOC -->
 
@@ -24,8 +24,30 @@
   - 链接: <https://pan.baidu.com/s/1OTz-ah0XV1nrq_3tf8RtEA> 提取码: e75m
 - [Reinforcement Learning: An Introduction](https://pan.baidu.com/s/1dDnNEnR)
 
-## [CS229: Machine Learning](http://cs229.stanford.edu)
-<a id="markdown-cs229%3A-machine-learning" name="cs229%3A-machine-learning"></a>
+- The [Journal of Machine Learning Research (JMLR)](https://jmlr.org/), established in 2000, provides an international forum for the electronic and paper publication of high-quality scholarly articles in all areas of machine learning. All published papers are freely available online.
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) is a free online book. The book will teach you about: 1. Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data; 2. Deep learning, a powerful set of techniques for learning in neural networks .Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you many of the core concepts behind neural networks and deep learning.
+- [Tutorials on topics in machine learning](https://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mltut.htm)
+- [ICML(International Conference on Machine Learning)](https://icml.cc/) is the leading international machine learning conference and is supported by the [International Machine Learning Society (IMLS)](http://www.machinelearning.org/).
+- [Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/)
+
+- [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook/): [Printer-Friendly PDF Version](https://web.stanford.edu/group/pdplab/pdphandbook/handbook.pdf)
+
+## Courses
+<a id="markdown-courses" name="courses"></a>
+
+- [CS229: Machine Learning](http://cs229.stanford.edu)
+- [CSS 490 / 590 - Introduction to Machine Learning](https://courses.washington.edu/css490/2012.Winter/CSS%20490-590%20-%20Introduction%20to%20Machine%20Learning.html)
+- [CMPUT 609: Reinforcement Learning for Artificial Intelligence](http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLAIcourse/2010.html)
+- [CS240h: Functional Systems in Haskell](https://www.scs.stanford.edu/11au-cs240h/)
+- ~~[Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html)~~
+
+- [Graduate Summer School: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/)
+  - [Institute for Pure & Applied Mathematics](https://www.ipam.ucla.edu/) - An NSF Math Institute at UCLA
+- [Machine Learning Surveys](https://www.mlsurveys.com/): A list of literature surveys, reviews, and tutorials on Machine Learning and related topics
+- [Machine Learning Lab: Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) as Hector Endowed Fellow at the ELLIS Institute Tübingen
+
+## 会议
+<a id="markdown-%E4%BC%9A%E8%AE%AE" name="%E4%BC%9A%E8%AE%AE"></a>
 
 ## OverViews
 <a id="markdown-overviews" name="overviews"></a>
